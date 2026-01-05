@@ -33,6 +33,13 @@ Scott’s baseline frontier achieves strong returns under a strict risk cap; hig
 
 ---
 
+## Data
+The cleaned Excel inputs used in this case study are included in `data/`:
+- `data/Josh Gottheimer Final.xlsx`
+- `data/Scott Franklin Final Fixed.xlsx`
+
+---
+
 ## Tech Stack
 - Python
 - Pyomo (optimization modeling)
